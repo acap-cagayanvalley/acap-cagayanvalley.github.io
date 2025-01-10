@@ -1,0 +1,10 @@
+https://acap-cagayanvalley.github.io/
+https://acap-cagayanvalley.github.io/weather-services/
+https://acap-cagayanvalley.github.io/cropping-calendar-v2/
+https://acap-cagayanvalley.github.io/agroclimatic-services/
+https://acap-cagayanvalley.github.io/bulletins/
+https://acap-cagayanvalley.github.io/bulletins/weather/
+https://acap-cagayanvalley.github.io/bulletins/seasonal-outlook/
+https://acap-cagayanvalley.github.io/bulletins/special-weather-forecast/
+https://acap-cagayanvalley.github.io/admin/login/
+https://acap-cagayanvalley.github.io/superadmin/login/
